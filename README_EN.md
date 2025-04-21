@@ -1,4 +1,4 @@
-# XUGOU - Lightweight Monitoring Platform Based on CloudFlare
+# XUGOU - Lightweight Monitoring Platform Based on CloudFlare 
 
 <div align="center">
 
